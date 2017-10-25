@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2015\Projects\BlackDungeon\BlackDungeon\bin\Debug\BlackDungeon.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\BlackDungeon\BlackDungeon\bin\Debug\BlackDungeon.exe
+C:\Users\User\documents\visual studio 2015\Projects\BlackDungeon\BlackDungeon\bin\Debug\BlackDungeon.pdb
+C:\Users\User\documents\visual studio 2015\Projects\BlackDungeon\BlackDungeon\obj\Debug\BlackDungeon.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\BlackDungeon\BlackDungeon\obj\Debug\BlackDungeon.exe
+C:\Users\User\documents\visual studio 2015\Projects\BlackDungeon\BlackDungeon\obj\Debug\BlackDungeon.pdb
+H:\Unity\Projects\BlackDungeon\BlackDungeon\obj\Debug\BlackDungeon.csprojResolveAssemblyReference.cache
+H:\Unity\Projects\BlackDungeon\BlackDungeon\obj\Debug\BlackDungeon.csproj.CoreCompileInputs.cache
+H:\Unity\Projects\BlackDungeon\BlackDungeon\obj\Debug\BlackDungeon.exe
+H:\Unity\Projects\BlackDungeon\BlackDungeon\obj\Debug\BlackDungeon.pdb
+H:\Unity\Projects\BlackDungeon\BlackDungeon\bin\Debug\BlackDungeon.exe.config
+H:\Unity\Projects\BlackDungeon\BlackDungeon\bin\Debug\BlackDungeon.exe
+H:\Unity\Projects\BlackDungeon\BlackDungeon\bin\Debug\BlackDungeon.pdb
+J:\Unity\Projects\BlackDungeon\BlackDungeon\bin\Debug\BlackDungeon.exe.config
+J:\Unity\Projects\BlackDungeon\BlackDungeon\obj\Debug\BlackDungeon.exe
+J:\Unity\Projects\BlackDungeon\BlackDungeon\obj\Debug\BlackDungeon.pdb
+J:\Unity\Projects\BlackDungeon\BlackDungeon\obj\Debug\BlackDungeon.csprojResolveAssemblyReference.cache
+J:\Unity\Projects\BlackDungeon\BlackDungeon\bin\Debug\BlackDungeon.exe
+J:\Unity\Projects\BlackDungeon\BlackDungeon\bin\Debug\BlackDungeon.pdb
+J:\Unity\Projects\BlackDungeonV.2\BlackDungeon\bin\Debug\BlackDungeon.exe.config
+J:\Unity\Projects\BlackDungeonV.2\BlackDungeon\obj\Debug\BlackDungeon.exe
+J:\Unity\Projects\BlackDungeonV.2\BlackDungeon\obj\Debug\BlackDungeon.pdb
