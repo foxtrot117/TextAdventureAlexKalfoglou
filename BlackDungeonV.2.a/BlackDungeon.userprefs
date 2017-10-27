@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="BlackDungeon\BlackDungeon.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlackDungeon\BlackDungeon.csproj">
+    <Files>
+      <File FileName="BlackDungeon\Program.cs" Line="3" Column="19" />
+      <File FileName="BlackDungeon\BlackDungeon.csproj" Line="2" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
